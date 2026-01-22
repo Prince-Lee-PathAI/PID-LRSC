@@ -11,7 +11,7 @@ Here's the motivation of our **PID-LRSC** on instance-semantic disentanglement:
 
 ![Figure 1](./images/motivation1.png)
 
-Here's an overview of our **PG-CIDL** method:
+Here's an overview of our **PID-LRSC** method:
 
 ![Figure 1](./images/LoClust_main.png)
 
